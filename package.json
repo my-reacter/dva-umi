@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build",
+    "lint": "eslint --ext .js src test"
+  },
+  "dependencies": {
+    "umi": "*",
+    "umi-plugin-react": "*"
+  },
+  "devDependencies": {
+    "mockjs": "^1.0.1-beta3",
+    "antd-pro-server": "^1.0.1",
+    "eslint": "^4.19.1",
+    "eslint-config-umi": "^0.1.4",
+    "eslint-plugin-flowtype": "^2.46.3",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.1.0",
+    "husky": "^0.14.3"
+  }
+}
