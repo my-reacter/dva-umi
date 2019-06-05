@@ -6,6 +6,7 @@ umi-example-dva-user-dashboard
 
 一个复杂应用的目录结构如下：
 
+<code>
 .
 ├── dist/                          // 默认的 build 输出目录
 ├── mock/                          // mock 文件所在目录，基于 express
@@ -27,3 +28,4 @@ umi-example-dva-user-dashboard
 ├── .umirc.js                      // umi 配置，同 config/config.js，二选一
 ├── .env                           // 环境变量
 └── package.json
+</code>
