@@ -3,11 +3,9 @@
   "scripts": {
     "start": "umi dev",
     "build": "umi build",
-    "test": "umi test",
-    
     "lint": "eslint --ext .js src mock tests",
     
-    
+    "test": "umi test",
     "precommit": "lint-staged"
   },
   "dependencies": {

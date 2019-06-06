@@ -5,7 +5,7 @@ import renderRoutes from 'umi/_renderRoutes';
 import history from '@tmp/history';
 
 
-const Router = DefaultRouter;
+const Router = require('dva/router').routerRedux.ConnectedRouter;
 
 const routes = [
   {
