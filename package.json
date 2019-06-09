@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "umi": "*",
+    "umi-plugin-dva": "^1.6.0",
     "umi-plugin-react": "^1.8.2"
   },
   "devDependencies": {

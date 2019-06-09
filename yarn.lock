@@ -12615,7 +12615,7 @@ umi-plugin-dll@1.4.0:
     rimraf "2.6.2"
     serve-static "1.13.2"
 
-umi-plugin-dva@1.6.0:
+umi-plugin-dva@1.6.0, umi-plugin-dva@^1.6.0:
   version "1.6.0"
   resolved "https://registry.npm.taobao.org/umi-plugin-dva/download/umi-plugin-dva-1.6.0.tgz#7c48243cbf6e994d8c0f48ef6a3f5abb9e24860b"
   integrity sha1-fEgkPL9umU2MD0jvaj9au54khgs=
