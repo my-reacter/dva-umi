@@ -6,6 +6,7 @@
     "lint": "eslint --ext .js src test"
   },
   "dependencies": {
+    "@ant-design/pro-layout": "^4.5.3",
     "umi": "*",
     "umi-plugin-dva": "^1.6.0",
     "umi-plugin-react": "^1.8.2"
